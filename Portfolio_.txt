@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Win Inlaw | UX/UI Designer & Developer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background-color: #2b2b2b;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    nav {
+      display: flex;
+      justify-content: center;
+      gap: 2rem;
+      background-color: #444;
+      padding: 1rem 0;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      max-width: 900px;
+      margin: auto;
+      padding: 2rem;
+      background: white;
+      margin-top: 2rem;
+      border-radius: 8px;
+    }
+    .project {
+      margin-bottom: 2rem;
+    }
+    .project img {
+      max-width: 100%;
+      border-radius: 8px;
+    }
+    footer {
+      background-color: #2b2b2b;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Win Inlaw</h1>
+    <p>UX/UI Designer | Front-End Developer | Creative Problem Solver</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#projects">Projects</a>
+    <a href="#resume">Resume</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I'm a recent Computer Science graduate with a certification in UX/UI Design. I specialize in crafting intuitive digital experiences and developing user-friendly interfaces. My tools include Figma, Adobe Creative Suite, Python, and HTML/CSS.</p>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project">
+      <h3>Prototype Design - College Community App</h3>
+      <p>Created a mobile-friendly app prototype using Figma that connects students with nearby events and academic resources.</p>
+      <img src="https://via.placeholder.com/800x400" alt="Project Screenshot">
+    </div>
+    <div class="project">
+      <h3>Responsive Web Page</h3>
+      <p>Designed and coded a portfolio site using HTML, CSS, and basic JavaScript, optimized for all devices.</p>
+      <img src="https://via.placeholder.com/800x400" alt="Project Screenshot">
+    </div>
+  </section>
+
+  <section id="resume">
+    <h2>Resume</h2>
+    <p><a href="Win_Inlaw_Tailored_Resume.pdf" target="_blank">Download Resume (PDF)</a></p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <p>Email: <a href="mailto:inlaw234@Gmail.com">inlaw234@Gmail.com</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/win-inlaw-562298240/" target="_blank">linkedin.com/in/win-inlaw</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Win Inlaw</p>
+  </footer>
+</body>
+</html>
